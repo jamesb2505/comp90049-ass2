@@ -1,0 +1,6 @@
+/data/*
+*-spec*.pdf
+.ipynb_checkpoints/*
+*.zip
+*.docx
+*.txt
