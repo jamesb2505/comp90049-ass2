@@ -1,4 +1,4 @@
-# Assignment 2 - Romance or Thriller, Reasearch Project 
+# Assignment 2 - Romance or Thriller, Research Project 
 #### Introduction to Machine Learning
 #### University of Melbourne, 2020
 
